@@ -1,4 +1,4 @@
-package com.github.jeremyrempel.iamabitrisetest
+package com.github.jeremyrempel.bitrisetest
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.github.jeremyrempel.iamabitrisetest", appContext.packageName)
+        assertEquals("com.github.jeremyrempel.bitrisetest", appContext.packageName)
     }
 }

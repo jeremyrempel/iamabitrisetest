@@ -1,4 +1,4 @@
-package com.github.jeremyrempel.iamabitrisetest
+package com.github.jeremyrempel.bitrisetest
 
 import org.junit.Test
 
